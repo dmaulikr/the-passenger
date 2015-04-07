@@ -1,0 +1,14 @@
+2015-04-07 12:14:59.220 ThePassenger[6311:421191] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/sarkispeha/Library/Developer/CoreSimulator/Devices/B515DA42-4DAF-431B-A42B-7802FF4848B4/data/Containers/Data/Application/73E397AC-E9CF-4FA4-85BA-E93D3CE474BD/Library/Cookies/Cookies.binarycookies
+2015-04-07 12:14:59.336 ThePassenger[6311:421191] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-07 12:14:59.336 ThePassenger[6311:421191] Multi-tasking -> Device: YES, App: YES
+2015-04-07 12:14:59.338 ThePassenger[6311:421191] Unlimited access to network resources
+2015-04-07 12:14:59.340 ThePassenger[6311:421191] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-07 12:14:59.630 ThePassenger[6311:421191] Resetting plugins due to page load.
+2015-04-07 12:14:59.665 ThePassenger[6311:421191] Finished load of: file:///Users/sarkispeha/Library/Developer/CoreSimulator/Devices/B515DA42-4DAF-431B-A42B-7802FF4848B4/data/Containers/Bundle/Application/F8C26144-5094-4884-BFD4-C1E958E6C850/ThePassenger.app/www/index.html
